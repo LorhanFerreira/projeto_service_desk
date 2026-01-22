@@ -70,7 +70,6 @@ def chamado_por_id(id):
         return jsonify(chamado) if chamado else (jsonify({"erro": "Não encontrado"}), 404)
     
     if request.method == 'PUT':
-        # Aqui você altera o técnico e o status para 'Em_Andamento' ou 'Resolvido'
         dados = request.json
         sql = "UPDATE chamados SET tecnico_id = %s, status = %s WHERE id = %s"
         cursor.execute(sql, (dados.get('tecnico_id'), dados.get('status'), id))
