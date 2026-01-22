@@ -86,7 +86,7 @@ def chamado_por_id(id):
 def filtrar_chamados(situacao):
     conn = get_connection()
     cursor = conn.cursor(dictionary=True)
-    # Agora você filtra por 'Pendente', 'Em_Andamento' ou 'Resolvido'
+    # Agora eu filtro por 'Pendente', 'Em_Andamento' ou 'Resolvido'
     cursor.execute("SELECT * FROM chamados WHERE status = %s", (situacao,))
     return jsonify(cursor.fetchall()), 200
 
