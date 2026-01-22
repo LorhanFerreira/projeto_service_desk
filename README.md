@@ -1,6 +1,7 @@
 #projeto_service_desk
 ---
-🖥️ Descrição do Projeto
+🖥️ Descrição do Projeto  
+
 Projeto Final de Service Desk desenvolvido para o gerenciamento de chamados técnicos de TI. O sistema permite o controle total do ciclo de vida de um incidente, desde a abertura pelo usuário até a resolução final pelo técnico responsável.
 
 🚀 Requisitos Implementados
