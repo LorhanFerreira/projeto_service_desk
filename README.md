@@ -4,8 +4,9 @@
 
 Projeto Final de Service Desk desenvolvido para o gerenciamento de chamados técnicos de TI. O sistema permite o controle total do ciclo de vida de um incidente, desde a abertura pelo usuário até a resolução final pelo técnico responsável.
 
-🚀 Requisitos Implementados
-Cadastro de Usuários: Registro de clientes que solicitam suporte.
+🚀 Requisitos Implementados  
+
+*Cadastro de Usuários: Registro de clientes que solicitam suporte.1
 
 Cadastro de Técnicos: Registro de profissionais especializados para atendimento.
 
