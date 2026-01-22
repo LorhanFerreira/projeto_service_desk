@@ -6,17 +6,18 @@ Projeto Final de Service Desk desenvolvido para o gerenciamento de chamados téc
 
 🚀 Requisitos Implementados  
 
-*Cadastro de Usuários: Registro de clientes que solicitam suporte.1
+* Cadastro de Usuários: Registro de clientes que solicitam suporte.
 
-Cadastro de Técnicos: Registro de profissionais especializados para atendimento.
+* Cadastro de Técnicos: Registro de profissionais especializados para atendimento.
 
-Gerenciamento de Chamados: Criação e atualização de tickets de suporte.
+* Gerenciamento de Chamados: Criação e atualização de tickets de suporte.
 
 Filtros Inteligentes: * Busca segmentada por status: Pendente, Em_Andamento e Resolvido.
 
 Lógica de prioridade: Alta, Média e Baixa.
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas  
+---
 Linguagem: Python
 
 Framework Web: Flask
