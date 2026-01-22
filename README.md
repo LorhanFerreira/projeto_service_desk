@@ -12,16 +12,17 @@ Projeto Final de Service Desk desenvolvido para o gerenciamento de chamados téc
 
 * Gerenciamento de Chamados: Criação e atualização de tickets de suporte.
 
-Filtros Inteligentes: * Busca segmentada por status: Pendente, Em_Andamento e Resolvido.
+Filtros Inteligentes:  
+Busca segmentada por status: Pendente, Em_Andamento e Resolvido.
 
 Lógica de prioridade: Alta, Média e Baixa.
 
 🛠️ Tecnologias Utilizadas  
 ---
-Linguagem: Python
+* Linguagem: Python
 
-Framework Web: Flask
+* Framework Web: Flask
 
-Banco de Dados: MySQL
+* Banco de Dados: MySQL
 
-Ferramenta de Testes: Thunder Client (VS Code)
+* Ferramenta de Testes: Thunder Client (VS Code)
